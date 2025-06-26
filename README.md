@@ -1,4 +1,4 @@
-# Rubik's Cube Solver (Intern Task)
+# Rubik's Cube Solver (Educase India Assignment)
 
 This is a JavaScript-based Rubik's Cube solver built for an internship/fresher coding task.
 
