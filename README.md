@@ -30,4 +30,3 @@ This implementation focuses on demonstrating:
 - Functional logic
 - Visual updates per step
 
-It is not an optimal or complete Rubik’s Cube solver (by design).
